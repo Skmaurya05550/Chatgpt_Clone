@@ -1,4 +1,6 @@
 # ChatGPT Clone
+![17317670700477713055596396917247](https://github.com/user-attachments/assets/98109b22-89be-4e51-80c2-d6c0c06e4e48)
+
 
 ## Overview
 This project is a simple web-based clone of the ChatGPT interface. It is designed using HTML, Tailwind CSS, and FontAwesome to create a user-friendly chat application layout.
@@ -33,8 +35,6 @@ This project is a simple web-based clone of the ChatGPT interface. It is designe
 - **Send a Message**: Type your message in the input field and click the send button.
 - **Logout**: Use the logout button at the bottom of the sidebar to end the session.
 
-## Preview
-![ChatGPT Clone Preview](preview-image-url)
 
 ## Future Enhancements
 - Integrate backend support for real-time chat functionality.
